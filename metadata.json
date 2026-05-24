@@ -1,0 +1,6 @@
+{
+  "name": "Interval Timer & Rep Tracker",
+  "description": "A minimalist interval timer and daily physical rep tracker built with modern typography and animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
